@@ -9,8 +9,7 @@ To set up the project, follow these steps:
 
 - Clone the repository:
 
-git clone https://github.com/your-username/plant-village-disease-classification.git
-cd plant-village-disease-classification
+git clone https://github.com/kenzymelanfoshy/Plant-disease-detection-.git
 
 - Install the required libraries:
 
